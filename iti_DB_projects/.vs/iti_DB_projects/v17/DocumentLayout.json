@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\entityFrameWork\\d2\\iti_DB_projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4BBC53-790E-4AD7-8B15-275338341074}|iti_DB_forms\\iti_DB_forms.csproj|c:\\users\\compu marts\\desktop\\c# labs\\entityframework\\d2\\iti_db_projects\\iti_db_forms\\menueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4BBC53-790E-4AD7-8B15-275338341074}|iti_DB_forms\\iti_DB_forms.csproj|solutionrelative:iti_db_forms\\menueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4BBC53-790E-4AD7-8B15-275338341074}|iti_DB_forms\\iti_DB_forms.csproj|c:\\users\\compu marts\\desktop\\c# labs\\entityframework\\d2\\iti_db_projects\\iti_db_forms\\instructorcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4BBC53-790E-4AD7-8B15-275338341074}|iti_DB_forms\\iti_DB_forms.csproj|solutionrelative:iti_db_forms\\instructorcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4BBC53-790E-4AD7-8B15-275338341074}|iti_DB_forms\\iti_DB_forms.csproj|C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\entityFrameWork\\d2\\iti_DB_projects\\iti_db_forms\\instructorcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C4BBC53-790E-4AD7-8B15-275338341074}|iti_DB_forms\\iti_DB_forms.csproj|solutionrelative:iti_db_forms\\instructorcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenueForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\entityFrameWork\\d2\\iti_DB_projects\\iti_DB_forms\\MenueForm.cs",
+              "RelativeDocumentMoniker": "iti_DB_forms\\MenueForm.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\entityFrameWork\\d2\\iti_DB_projects\\iti_DB_forms\\MenueForm.cs [Design]",
+              "RelativeToolTip": "iti_DB_forms\\MenueForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:17:26.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorCourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\entityFrameWork\\d2\\iti_DB_projects\\iti_DB_forms\\InstructorCourseForm.cs",
+              "RelativeDocumentMoniker": "iti_DB_forms\\InstructorCourseForm.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\entityFrameWork\\d2\\iti_DB_projects\\iti_DB_forms\\InstructorCourseForm.cs",
+              "RelativeToolTip": "iti_DB_forms\\InstructorCourseForm.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwEYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:14:33.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstructorCourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\entityFrameWork\\d2\\iti_DB_projects\\iti_DB_forms\\InstructorCourseForm.cs",
+              "RelativeDocumentMoniker": "iti_DB_forms\\InstructorCourseForm.cs",
+              "ToolTip": "C:\\Users\\COMPU MARTS\\Desktop\\c# labs\\entityFrameWork\\d2\\iti_DB_projects\\iti_DB_forms\\InstructorCourseForm.cs [Design]",
+              "RelativeToolTip": "iti_DB_forms\\InstructorCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:13:44.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
